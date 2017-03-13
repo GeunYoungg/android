@@ -51,6 +51,9 @@
   * 이것도 인프런 강좌인데 이렇게 짧은 강좌 여러개가 졸리거나 어렵지 않고 들을만 할수도 있어 이 강좌에서는 IntelliJ 쓰는거 같은데 개발환경은 크게 구속받지 말고 이것저것 해봐 네가 편한게 답이야 ㅋㅋ
 * [예제로 배우는 안드로이드 ANDROID](https://kairo96.gitbooks.io/android/content/ch0.html)
 
+* [Do it! 안드로이드](https://www.youtube.com/watch?v=xO1TlHzZHFU)
+  * 교재 동영상 강의 지인이 봤는데 도움 많이 된대! 나는 이거 보려고 ㅋㅋ
+
 ### 3. 안드로이드 앱 만들기
 
 추후에 올림.
