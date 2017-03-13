@@ -67,7 +67,7 @@
 ![](img/image3.png)
 
 ### 깃헙 사용방법
-추후에 올림.
+[git 사용방법](https://github.com/GeunYoungg/android/blob/study/TIL/git/guide.md)
 
 ## 참고
 
