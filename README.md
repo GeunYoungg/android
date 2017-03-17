@@ -1,6 +1,8 @@
 # Android
 **졸업작품을 위한 안드로이드 앱 만들기 프로젝트**
 
+* [스터디계획](./study/study-plan.md)
+* [스터디기록](./study/study-record.md)
 ## 목표
 
 이 프로젝트 저장소에 블루투스 연동 안드로이드 앱이 올라오는 것
@@ -47,8 +49,6 @@
   * 개인적으로 가장 중요하다고 생각해 한글 번역이 일부 되어있지만 공식사이트에 나온대로 하는게 최신 업데이트도 반영되고(인터넷 강의는 시간이 오래되면 안 맞는게 많아) 좋아! 이건 꼭 훑어라도 보길 바래
 * [초보부터 개발자 취업까지!! 실전 자바 강좌](https://www.inflearn.com/course/%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B0%95%EC%A2%8C/)
   * 인프런이라는 곳에서 사람들이 제일 많이 들은 자바 강좌야 이거 들을거면 섹션2 자바 기본까지만 들으면 될 것 같아.
-* [Java 를 통한 프로그래밍 입문부터, 여러 앱 개발로 배워보는 안드로이드 개발](https://www.inflearn.com/course/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C-java-%EB%B0%B0%EC%9A%B0%EA%B8%B0/)
-  * 이것도 인프런 강좌인데 이렇게 짧은 강좌 여러개가 졸리거나 어렵지 않고 들을만 할수도 있어 이 강좌에서는 IntelliJ 쓰는거 같은데 개발환경은 크게 구속받지 말고 이것저것 해봐 네가 편한게 답이야 ㅋㅋ
 * [예제로 배우는 안드로이드 ANDROID](https://kairo96.gitbooks.io/android/content/ch0.html)
 
 * [Do it! 안드로이드](https://www.youtube.com/watch?v=xO1TlHzZHFU)
