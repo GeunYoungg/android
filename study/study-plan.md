@@ -9,7 +9,7 @@
 0. 개발환경설정
     * Android Studio
 1. 버전관리 툴 익히기
-    * [git](../git/guide.md)
+    * [git](/git.md)
 2. Java언어 익히기
     1. 변수 및 데이터 타입(int, float, string, object 등)
         * 사칙연산 연습하면 좋을 듯(a++, ++a a*(b+c) 등 산술연산 순서연습)

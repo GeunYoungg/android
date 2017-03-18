@@ -67,7 +67,7 @@
 ![](img/image3.png)
 
 ### 깃헙 사용방법
-[git 사용방법](./git/guide.md)
+[git 사용방법](./git.md)
 
 ## 참고
 

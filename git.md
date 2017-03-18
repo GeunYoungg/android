@@ -58,24 +58,34 @@ git clone https://github.com/GeunYoungg/android.git
 ```sh
 git status
 ```
-![git_status](../img/git_status.png)
+![git_status](/img/git_status.png)
 2. git add(변경된 상태를 commit할 준비)
 ```sh
 git add . # . 점은 현재 폴더를 칭한다. 현재 폴더부터 모든 변경사항을 add
 git add file_name # file_name으로 개별적으로 add 가능
 ```
-![git_add](../img/git_add.png)
+![git_add](/img/git_add.png)
 3. git commit(변경된 사항에 메세지 남기기)
 ```sh
 git commit -m "git 사용법 추가" # commit 명령 뒤에 -m 옵션을 주고 "" 사이에 텍스트 추가"
 ```
-![git_commit](../img/git_commit.png)
+![git_commit](/img/git_commit.png)
 4. git push(commit까지 완료된 상태를 저장소에 push)
 ```sh
 git push origin master
 # git push {원격저장소 이름} {브랜치 이름}
 ```
-![git_push](../img/git_push.png)
+![git_push](/img/git_push.png)
+
+## 에러
+
+### git push가 안될 때
+
+정확한 에러메세지는 기억 안나지만 아래 강제 푸쉬 명령으로 해결함.(브랜치 이름에 +를 붙임)
+
+```sh
+git push origin +master
+```
 
 ## 참고
 * [버전관리를 들어본적 없는 사람들을 위한 DVCS - Git](https://www.slideshare.net/ibare/dvcs-git)
