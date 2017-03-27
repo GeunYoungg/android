@@ -1,8 +1,11 @@
 # Android
 **졸업작품을 위한 안드로이드 앱 만들기 프로젝트**
 
-* [스터디계획](./study/study-plan.md)
-* [스터디기록](./study/study-record.md)
+아래에서 업데이트 된 것만 확인
+
+[자바 개발환경 구축](http://tryhelloworld.co.kr/courses/자바-입문/lessons/자바-개발환경-구축) <- 이거 미리 설치해보기
+* [스터디계획](./study/study-plan.md) **2017.03.27 업데이트**
+* [스터디기록](./study/study-record.md) **2017.03.27 업데이트**
 ## 목표
 
 이 프로젝트 저장소에 블루투스 연동 안드로이드 앱이 올라오는 것
